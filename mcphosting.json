@@ -1,0 +1,4 @@
+
+{
+  "command": "uv run fastmcp run src/remote_mcp/main.py"
+}
